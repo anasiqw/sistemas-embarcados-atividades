@@ -40,12 +40,6 @@ A atividade permitiu desenvolver um sistema de alarme utilizando Arduino Uno, ap
 
 
 
+https://www.tinkercad.com/things/9EN6JBooQki-atividade-2ino/editel?returnTo=https%3A%2F%2Fwww.tinkercad.
 
 
-
-
-
-
-
-
-Esta conversa está sendo útil até agora?
